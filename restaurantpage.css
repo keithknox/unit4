@@ -1,0 +1,39 @@
+
+body{
+	background-image: url("ribs.jpg");
+	background-size: cover;
+	
+}
+header li{
+	display: inline;
+	text-align: center;
+	list-style: none;
+	font-size: 20px;
+	margin: 20px;
+	
+}
+header{
+	text-align: center;
+	background-color: white;
+	opacity: 0.5;
+	margin-left: 33%;
+	margin-right: 33%;
+}
+main{
+	text-align: center;
+	font-size: 75px;
+	font-family: Droid Sans;
+	background-color: white;
+	opacity: 0.5;
+	margin-left: 33%;
+	margin-right: 33%;
+		
+}
+
+p{
+	font-family: Numans;
+	font-size: 20px;
+	margin-left: 0;
+	margin-right: 0;
+}
+	
