@@ -3,17 +3,7 @@ body{
 	background-image: url("ribs.jpg");
 	background-size: cover;	
 }
-header li{
-	display: inline;
-	text-align: center;
-	list-style: none;
-	font-size: 20px;
-	margin: 10px;
-	padding: 0px;
-	color: white;
-	text-shadow: 2px 2px 0 #000
-	
-}
+
 header{
 	text-align: center;
 	background-color: grey;
@@ -21,16 +11,33 @@ header{
 	margin-right: 5%;
 	margin-top: 5%;
 	border-radius: 80px 50px;
+		
+}
+
+h1 {
+	font-size: 75px;
+	font-family: Droid Sans;
+	color: white;
+	text-shadow: 3px 3px 0 #000;
+	margin-bottom: 0px;
+	}
+	
+header li{
+	display: inline;
+	text-align: center;
+	list-style: none;
+	font-size: 15px;
+	margin: 0px 2px 0px 2px;
+	color: white;
+	text-shadow: 2px 2px 0 #000
 	
 }
 main{	
 	background-color: grey;
-	margin-right: 35%;
-	margin-left: 5%;
+	margin-right: 30%;
+	margin-left: 10%;
 	border-radius: 200px 200px;
-	margin-top: 30%;
-	
-		
+	margin-top: 30%;		
 }
 
 p{
@@ -42,9 +49,3 @@ p{
 	text-align: center;
 	font-family: Droid Serif;	
 }
-h1 {
-	font-size: 75px;
-	font-family: Droid Sans;
-	color: white;
-	text-shadow: 3px 3px 0 #000;
-	}
